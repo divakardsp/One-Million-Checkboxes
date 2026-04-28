@@ -1,0 +1,25 @@
+{
+  "name": "one-million-checkboxes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divakardsp/One-Million-Checkboxes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/divakardsp/One-Million-Checkboxes/issues"
+  },
+  "homepage": "https://github.com/divakardsp/One-Million-Checkboxes#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}
